@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683746198 source:d:\uni anul i\sorting algorithms\countingsort\main.cpp
+	<iostream>
+	<algorithm>
+	<time.h>
+

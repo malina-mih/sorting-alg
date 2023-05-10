@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683745880 source:d:\uni anul i\sorting algorithms\mergesort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
