@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683745445 source:d:\uni anul i\sorting algorithms\quicksort\main.cpp
+	<iostream>
+	<algorithm>
+	<time.h>
+
